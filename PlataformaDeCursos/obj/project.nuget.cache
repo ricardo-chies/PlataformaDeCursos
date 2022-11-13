@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zhYfuBIujV21RE8GUCkL5WMdFH0P5JqIn79/tNtwvMq1D3bl9II7vNbztrqNqdyWLquVExR3KA5rqWnepfG36w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ricardo Chies\\Documents\\ADS - UNASP\\4 Semestre\\POO\\PlataformaDeCursos\\PlataformaDeCursos\\PlataformaDeCursos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ricardo Chies\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

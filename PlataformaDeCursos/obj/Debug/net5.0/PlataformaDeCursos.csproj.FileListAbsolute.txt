@@ -1,0 +1,16 @@
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\4 Semestre\POO\PlataformaDeCursos\PlataformaDeCursos\obj\Debug\net5.0\PlataformaDeCursos.csproj.AssemblyReference.cache
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\4 Semestre\POO\PlataformaDeCursos\PlataformaDeCursos\obj\Debug\net5.0\PlataformaDeCursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\4 Semestre\POO\PlataformaDeCursos\PlataformaDeCursos\obj\Debug\net5.0\PlataformaDeCursos.AssemblyInfoInputs.cache
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\4 Semestre\POO\PlataformaDeCursos\PlataformaDeCursos\obj\Debug\net5.0\PlataformaDeCursos.AssemblyInfo.cs
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\4 Semestre\POO\PlataformaDeCursos\PlataformaDeCursos\obj\Debug\net5.0\PlataformaDeCursos.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\4 Semestre\POO\PlataformaDeCursos\PlataformaDeCursos\bin\Debug\net5.0\PlataformaDeCursos.exe
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\4 Semestre\POO\PlataformaDeCursos\PlataformaDeCursos\bin\Debug\net5.0\PlataformaDeCursos.deps.json
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\4 Semestre\POO\PlataformaDeCursos\PlataformaDeCursos\bin\Debug\net5.0\PlataformaDeCursos.runtimeconfig.json
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\4 Semestre\POO\PlataformaDeCursos\PlataformaDeCursos\bin\Debug\net5.0\PlataformaDeCursos.runtimeconfig.dev.json
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\4 Semestre\POO\PlataformaDeCursos\PlataformaDeCursos\bin\Debug\net5.0\PlataformaDeCursos.dll
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\4 Semestre\POO\PlataformaDeCursos\PlataformaDeCursos\bin\Debug\net5.0\ref\PlataformaDeCursos.dll
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\4 Semestre\POO\PlataformaDeCursos\PlataformaDeCursos\bin\Debug\net5.0\PlataformaDeCursos.pdb
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\4 Semestre\POO\PlataformaDeCursos\PlataformaDeCursos\obj\Debug\net5.0\PlataformaDeCursos.dll
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\4 Semestre\POO\PlataformaDeCursos\PlataformaDeCursos\obj\Debug\net5.0\ref\PlataformaDeCursos.dll
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\4 Semestre\POO\PlataformaDeCursos\PlataformaDeCursos\obj\Debug\net5.0\PlataformaDeCursos.pdb
+C:\Users\Ricardo Chies\Documents\ADS - UNASP\4 Semestre\POO\PlataformaDeCursos\PlataformaDeCursos\obj\Debug\net5.0\PlataformaDeCursos.genruntimeconfig.cache
